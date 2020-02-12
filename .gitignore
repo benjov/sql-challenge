@@ -12,3 +12,7 @@ __pycache__/
 
 # Keys
 api_keys_all.py
+
+# Folders:
+
+DATA/
